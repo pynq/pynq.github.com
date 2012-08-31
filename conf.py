@@ -11,7 +11,7 @@ import tinkerer.paths
 project = 'PyNQ'                   
 
 # Change this to the tagline of your blog
-tagline = 'Python North Queensland Users Group'                  
+tagline = 'Python North Queensland Users Group (Australia)'                  
 
 # Change this to your name
 author = 'PyNQ Contibutors'
