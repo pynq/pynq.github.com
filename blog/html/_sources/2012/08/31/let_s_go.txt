@@ -3,8 +3,8 @@ Let's go
 
 So here we have it.  The very first post written for the Python North
 Queensland (PyNQ) users group.  If you're reading this, it means something
-has worked and either you're in the wrong place looking for one of these sorts
-of pythons:
+did work or else you're in the wrong place. If you're looking for one of these
+sorts of pythons:
 
 .. image:: /media/Python_Snake.jpg
    :height: 200px
@@ -12,7 +12,9 @@ of pythons:
 .. image:: /media/monty-python.jpg
    :height: 200px
 
-when really you should the sort of person interested in this sort of Python:
+then you'll probably be somewhat disappointed.  Typically, the audience
+is the sort of person we're targetting is the one interested in this sort of
+Python:
 
 .. image:: /media/python-logo.png
 
