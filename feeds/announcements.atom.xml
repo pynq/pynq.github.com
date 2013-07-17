@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyNQ.org</title><link href="http://pynq.org/" rel="alternate"></link><link href="http://pynq.org/feeds/announcements.atom.xml" rel="self"></link><id>http://pynq.org/</id><updated>2013-07-17T00:00:00+10:00</updated><entry><title>First official meeting!</title><link href="http://pynq.org/2013/07/first-official-meeting/" rel="alternate"></link><updated>2013-07-17T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2013-07-17:2013/07/first-official-meeting/</id><summary type="html">&lt;p&gt;Alright! So, we&amp;#8217;ve got a time, date and location for the very first
+PyNQ meeting. Details are as&amp;nbsp;follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;em&gt;First official meet-up&lt;/em&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Riverview Tavern, Douglas - in Townsville&lt;/div&gt;
+&lt;div class="line"&gt;7pm, Wednesday 31 July 2013&lt;/div&gt;
+&lt;div class="line"&gt;Meeting for dinner, drinks and tech talk.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you&amp;#8217;re unsure where this is, check out the location on
+&lt;a class="reference external" href="http://goo.gl/PN9lY"&gt;Google Maps&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s the&amp;nbsp;flyer:&lt;/p&gt;
+&lt;img alt="|filename|images/first-meeting.png" src="http://pynq.org/images/first-meeting.png" style="height: 500px;" /&gt;
+&lt;p&gt;Feel free to distribute this information far and wide if you&amp;#8217;re interested.
+You can also obtain a &lt;a class="reference external" href="http://pynq.org/images/first-meeting.png"&gt;higher-resolution&lt;/a&gt; image for the poster if you&amp;#8217;d like to print it on A4 and stick it up around
+the&amp;nbsp;place.&lt;/p&gt;
+&lt;p&gt;You can find the original artwork in the repository used for this blog -
+see &lt;a class="reference external" href="http://pynq.org/about.html"&gt;about us&lt;/a&gt; for more&amp;nbsp;information.&lt;/p&gt;
+&lt;p&gt;Hope to see you there!  Make sure you tell your friends and help
+get them interested.  If you can&amp;#8217;t make it to this one, the aim is to hold
+some form of semi-regular get-together (perhaps every month or so).  In
+any case, stay tuned to the blog and mailing list for more information.
+See &lt;a class="reference external" href="http://pynq.org/about.html"&gt;about us&lt;/a&gt; for more information or the
+&lt;a class="reference external" href="http://pynq.org/mailing-list.html"&gt;mailing list&lt;/a&gt; page for recent&amp;nbsp;posts.&lt;/p&gt;
+</summary></entry></feed>
