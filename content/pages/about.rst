@@ -32,3 +32,11 @@ If you're interested in more information about PyNQ, jump onto the Google Group 
 and get in touch.  We're always keen to hear more from people in the community
 who are either interested in Python, already using it, or are just keen on
 technology!
+
+About this site
+---------------
+
+This site is powered by Pelican, the static blog generator for Python,
+and is hosted on GitHub pages.  If you spot an error, see another issue
+or have suggestions for improvement, jump onto the issue tracker on GitHub
+and let us know!
