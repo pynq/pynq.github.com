@@ -34,12 +34,17 @@ DISPLAY_CATEGORIES_ON_MENU = False
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-.*'
 NEWEST_FIRST_ARCHIVES = True
 
-STATIC_PATHS = ['images', 'files']
+STATIC_PATHS = ['images', 'files', 'extras/CNAME', 'extras/favicon.ico', 'extras/.nojekyll']
+EXTRA_PATH_METADATA = {
+    'extras/CNAME': {'path': 'CNAME'},
+    'extras/favicon.ico': {'path': 'favicon.ico'},
+    'extras/.nojekyll': {'path': '.nojekyll'}
+}
+#All files in the `extras` directory get picked up.
+#directory='content/extras'
+#STATIC_PATHS.extend([(os.path.join('extras', filename), filename) for filename in os.listdir(directory)])
 EXTRA_TEMPLATES_PATHS = ['templates']
 
-#All files in the `extras` directory get picked up.
-directory='content/extras'
-FILES_TO_COPY = [(os.path.join('extras', filename), filename) for filename in os.listdir(directory)]
 
 TYPOGRIFY = True
 TIMEZONE = 'Australia/Queensland'
