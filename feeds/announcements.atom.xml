@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyNQ.org</title><link href="http://pynq.org/" rel="alternate"></link><link href="http://pynq.org/feeds/announcements.atom.xml" rel="self"></link><id>http://pynq.org/</id><updated>2013-07-17T00:00:00+10:00</updated><entry><title>First official meeting!</title><link href="http://pynq.org/2013/07/first-official-meeting/" rel="alternate"></link><updated>2013-07-17T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2013-07-17:2013/07/first-official-meeting/</id><summary type="html">&lt;p&gt;Alright! So, we&amp;#8217;ve got a time, date and location for the very first
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyNQ.org</title><link href="http://pynq.org/" rel="alternate"></link><link href="http://pynq.org/feeds/announcements.atom.xml" rel="self"></link><id>http://pynq.org/</id><updated>2013-10-12T00:00:00+10:00</updated><entry><title>Second official meeting</title><link href="http://pynq.org/2013/10/second-official-meeting/" rel="alternate"></link><updated>2013-10-12T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2013-10-12:2013/10/second-official-meeting/</id><summary type="html">&lt;p&gt;Our next social gathering will be as&amp;nbsp;follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Riverview Tavern, Douglas - in Townsville&lt;/div&gt;
+&lt;div class="line"&gt;6.30pm, Wednesday 16 October 2013&lt;/div&gt;
+&lt;div class="line"&gt;Meeting for dinner, drinks and tech talk.&lt;/div&gt;
+&lt;div class="line"&gt;Discussions on what, where, and when next - bring your ideas!&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you&amp;#8217;re unsure where this is, check out the location on
+&lt;a class="reference external" href="http://goo.gl/PN9lY"&gt;Google Maps&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hope to see you there!  Make sure you tell your friends and help
+get them&amp;nbsp;interested.&lt;/p&gt;
+&lt;p&gt;Beyond this session, we&amp;#8217;ll aim to fix a regular meeting time and place,
+especially where we have projectors, Internet access, and can start looking
+at the nuts-and-bolts of programming in Python.  Because of the wide
+gamut of people out there, we&amp;#8217;ll do some introductory-level discussions,
+as well as some higher-level talks about frameworks and types of programming.
+If you&amp;#8217;ve got suggestions, come along and make&amp;nbsp;them!&lt;/p&gt;
+&lt;p&gt;In any case, stay tuned to the blog and mailing list for more information.
+See &lt;a class="reference external" href="http://pynq.org/about.html"&gt;about us&lt;/a&gt; for more information or the
+&lt;a class="reference external" href="http://pynq.org/mailing-list.html"&gt;mailing list&lt;/a&gt; page for recent&amp;nbsp;posts.&lt;/p&gt;
+</summary></entry><entry><title>First official meeting!</title><link href="http://pynq.org/2013/07/first-official-meeting/" rel="alternate"></link><updated>2013-07-17T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2013-07-17:2013/07/first-official-meeting/</id><summary type="html">&lt;p&gt;Alright! So, we&amp;#8217;ve got a time, date and location for the very first
 PyNQ meeting. Details are as&amp;nbsp;follows:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;div class="line-block"&gt;
