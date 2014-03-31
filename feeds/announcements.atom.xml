@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyNQ.org</title><link href="http://pynq.org/" rel="alternate"></link><link href="http://pynq.org/feeds/announcements.atom.xml" rel="self"></link><id>http://pynq.org/</id><updated>2013-10-12T00:00:00+10:00</updated><entry><title>Second official meeting</title><link href="http://pynq.org/2013/10/second-official-meeting/" rel="alternate"></link><updated>2013-10-12T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2013-10-12:2013/10/second-official-meeting/</id><summary type="html">&lt;p&gt;Our next social gathering will be as&amp;nbsp;follows:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyNQ.org</title><link href="http://pynq.org/" rel="alternate"></link><link href="http://pynq.org/feeds/announcements.atom.xml" rel="self"></link><id>http://pynq.org/</id><updated>2014-04-01T00:00:00+10:00</updated><entry><title>PyNQ - First talk sessions</title><link href="http://pynq.org/2014/04/pynq-first-talk-sessions/" rel="alternate"></link><updated>2014-04-01T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2014-04-01:2014/04/pynq-first-talk-sessions/</id><summary type="html">&lt;p&gt;The first talk sessions will be held as&amp;nbsp;follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Wednesday 2 April 2014, from 6.30pm til approximately 8.30pm or so (or when we get tired).&lt;/div&gt;
+&lt;div class="line"&gt;Building 17, Room 032 (Ground Floor, access via east main entrance)&lt;/div&gt;
+&lt;div class="line"&gt;Faculty of Science and Engineering Building&lt;/div&gt;
+&lt;div class="line"&gt;James Cook University, Townsville Campus&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The talk outline looks like&amp;nbsp;this:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;David Beitey&lt;/strong&gt; - Introduction to Python (What, Why, Introduction, Comparison,
+Use Cases, and&amp;nbsp;Learning)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tristan Davey&lt;/strong&gt; - Python on the web with Google App&amp;nbsp;Engine&lt;/li&gt;
+&lt;li&gt;General discussions and question time&amp;nbsp;afterwards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you&amp;#8217;re unsure where this is on &lt;span class="caps"&gt;JCU&lt;/span&gt;&amp;#8217;s campus, check out the location on
+an &lt;a class="reference external" href="http://www.jcu.edu.au/maps/townsville/interactive/?location=17"&gt;interactive map&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hope to see you there!  Make sure you tell your friends and help
+get them&amp;nbsp;interested.&lt;/p&gt;
+</summary></entry><entry><title>Second official meeting</title><link href="http://pynq.org/2013/10/second-official-meeting/" rel="alternate"></link><updated>2013-10-12T00:00:00+10:00</updated><author><name>davidjb</name></author><id>tag:pynq.org,2013-10-12:2013/10/second-official-meeting/</id><summary type="html">&lt;p&gt;Our next social gathering will be as&amp;nbsp;follows:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Riverview Tavern, Douglas - in Townsville&lt;/div&gt;
@@ -34,7 +54,7 @@ PyNQ meeting. Details are as&amp;nbsp;follows:&lt;/p&gt;
 &lt;p&gt;If you&amp;#8217;re unsure where this is, check out the location on
 &lt;a class="reference external" href="http://goo.gl/PN9lY"&gt;Google Maps&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here&amp;#8217;s the&amp;nbsp;flyer:&lt;/p&gt;
-&lt;img alt="|filename|images/first-meeting.png" src="http://pynq.org/images/first-meeting.png" style="height: 500px;" /&gt;
+&lt;img alt="" src="http://pynq.org/images/first-meeting.png" style="height: 500px;" /&gt;
 &lt;p&gt;Feel free to distribute this information far and wide if you&amp;#8217;re interested.
 You can also obtain a &lt;a class="reference external" href="http://pynq.org/images/first-meeting.png"&gt;higher-resolution&lt;/a&gt; image for the poster if you&amp;#8217;d like to print it on A4 and stick it up around
 the&amp;nbsp;place.&lt;/p&gt;
